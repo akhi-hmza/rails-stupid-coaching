@@ -13,3 +13,37 @@
  *= require_tree .
  *= require_self
  */
+ .stupid {
+  margin: 2.5%;
+ }
+
+ .ask {
+  margin: 5%;
+ }
+
+ .hey {
+  margin: 5%;
+  padding: 2%;
+}
+
+ .style {
+  background-color: rgb(255, 255, 194);
+  margin: 5%;
+  padding: 2%;
+}
+
+ input {
+  width: 70%;
+  margin: 5%;
+}
+
+.input-field {
+  width: 400px;
+}
+
+.submit-btn {
+width: 100px;
+}
+.center {
+  align-items: center;
+}
